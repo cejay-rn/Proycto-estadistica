@@ -1,0 +1,28 @@
+Dentro del repositorio se encontraran dos carpetas 
+
+La carpeta Proyecto 1era version (imcompleta)
+
+Se encuentra la primera version del programa, el informe y las bases de datos que utilice
+las cuales al final termine descartando y reciclando la informacion para otra idea
+
+La carpeta proyecto version completa
+
+Contiene la version final del proyecto, las bases de datos utilizadas, el informe, el storytelling y el programa
+
+
+
+Instrucciones para abrir los archivos
+
+-Debe tener instalado Python en su maquina para correrlo
+
+-Una vez instalado instalar las librerias pandas, matplo, tkinter, y ramdon 
+ para hacerlo vaya a cmd, y coloque: pip install "nombre de la libreria"
+
+-Una vez instalada la libreria puede simplemente darle doble clic al archivo .py 
+ que se encuentran con el nombre BD1,BD2,BD3 etc...
+
+- si quiere ver el codigo abra los archivos en su editor de codigo favorito
+
+
+
+ -----------------------------------Gracias---------------------------------- 
